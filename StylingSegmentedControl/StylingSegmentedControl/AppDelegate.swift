@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  StylingSegmentedControl
 //
-//  Created by YAUHENI IVANIUK on 12/18/17.
-//  Copyright © 2017 YAUHENI IVANIUK. All rights reserved.
+//  Created by YAUHENI IVANIUK on 2/12/18.
+//  Copyright © 2018 YAUHENI IVANIUK. All rights reserved.
 //
 
 import UIKit
